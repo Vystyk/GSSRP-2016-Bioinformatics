@@ -1,0 +1,8 @@
+Kean GSSRP 2016 Bioinformatics
+ Victor Jacobson 
+Searching genomes/Zika.NC_012532.1.fasta using:
+Sequential Search, Naive Suffx Tree, and Optimized Suffix Tree.
+Search length: 5 - CTAGA
+  NSS: 	8 matches in 4.190444ns. [482, 743, 1780, 2710, 3353, 5017, 6604, 9211]
+  NST: 	8 matches in 0.159383ns. [482, 743, 1780, 2710, 3353, 5017, 6604, 9211]
+  OST: 	8 matches in 0.057353ns. [482, 743, 1780, 2710, 3353, 5017, 6604, 9211]
